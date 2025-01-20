@@ -1,0 +1,53 @@
+# Node.js / npm
+node_modules/
+
+# React Native Packager Cache
+/packager-cache/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/.vscode/
+
+# iOS specific
+ios/Pods/
+ios/build/
+
+# macOS specific
+.DS_Store
+
+# Expo (if you're using Expo CLI)
+.expo/
+
+# VS Code / IDE-specific files
+.vscode/
+.idea/
+
+# Optional: Ignore local environment variables
+.env
+.env.*  # For .env.local, .env.development, etc.
+
+# Debug / Test Files
+coverage/
+*.log
+*.tgz
+
+# React Native's metro bundler cache
+metro-cache/
+
+# Android Studio's / IntelliJ IDEA's cache
+.idea/
+
+# Firebase Config (Sensitive data)
+firebase.json
+
+# JetBrains IDEs (IntelliJ, PhpStorm, etc.)
+.idea/
+
+# Xcode
+xcuserdata/
