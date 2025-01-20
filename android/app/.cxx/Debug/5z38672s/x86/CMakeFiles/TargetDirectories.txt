@@ -1,0 +1,3 @@
+/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/appmodules.dir
+/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/edit_cache.dir
+/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/rebuild_cache.dir

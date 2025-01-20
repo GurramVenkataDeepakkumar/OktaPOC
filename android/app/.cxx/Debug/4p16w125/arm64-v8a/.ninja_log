@@ -1,0 +1,5 @@
+# ninja log v5
+1	24	0	/Users/g1kuma/ReactNative_Projects_Self/OktaPOC/android/app/.cxx/Debug/4p16w125/arm64-v8a/CMakeFiles/cmake.verify_globs	96599e71b0764cbf
+0	2127	1737367789231168047	CMakeFiles/appmodules.dir/Users/g1kuma/ReactNative_Projects_Self/OktaPOC/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b2027ce13d640754
+1	2238	1737367789357277512	CMakeFiles/appmodules.dir/OnLoad.cpp.o	5dd339024b8144b7
+2238	2339	1737367789481155415	/Users/g1kuma/ReactNative_Projects_Self/OktaPOC/android/app/build/intermediates/cxx/Debug/4p16w125/obj/arm64-v8a/libappmodules.so	da2ddf70b480a275

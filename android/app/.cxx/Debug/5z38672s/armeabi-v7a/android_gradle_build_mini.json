@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/g1kuma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/g1kuma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "armeabi-v7a",
+      "output": "/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/build/intermediates/cxx/Debug/5z38672s/obj/armeabi-v7a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/g1kuma/.gradle/caches/8.10.2/transforms/712459f74e1b69cabe04723869743a98/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/Users/g1kuma/.gradle/caches/8.10.2/transforms/ffea390e40bce9ede11ecb704e97298f/transformed/react-android-0.76.6-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/Users/g1kuma/.gradle/caches/8.10.2/transforms/ffea390e40bce9ede11ecb704e97298f/transformed/react-android-0.76.6-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+      ]
+    }
+  }
+}

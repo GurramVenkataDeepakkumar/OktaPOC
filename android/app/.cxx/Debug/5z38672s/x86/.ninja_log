@@ -1,0 +1,13 @@
+# ninja log v5
+23	140	1736950758602762519	build.ninja	a0b2091f05bb7e48
+1	40	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+3	70	1736947460483887896	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d7e6d0164bd930bb
+2	69	1736947460483532478	CMakeFiles/appmodules.dir/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	3b7014b91ff3c8c5
+70	200	1736947460615332542	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/build/intermediates/cxx/Debug/5z38672s/obj/x86/libappmodules.so	f765f58d70bbc344
+0	18	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+1	46	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+0	17	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+1	24	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+1	18	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+0	22	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
+0	58	0	/Users/g1kuma/ReactNative_Projects_Self/Okta_SignIn_Poc/android/app/.cxx/Debug/5z38672s/x86/CMakeFiles/cmake.verify_globs	857ef9893e0fefbe
